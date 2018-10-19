@@ -1,0 +1,4 @@
+node_modules
+build
+security-rules.json
+./src/config.js
